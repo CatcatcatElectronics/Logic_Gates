@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB.PcbDoc   18.05.2024  19:20:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer 1 to Bottom Layer 2
+ASCII Plated RoundHoles File : 2024-LogicGates4-00B1-PCB-R01-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : 2024-LogicGates4-00B1-PCB-R01-RoundHoles-NonPlated.TXT
+ASCII Non-Plated SlotHoles File : 2024-LogicGates4-00B1-PCB-R01-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             83        PTH        29.24inch (742.75mm)
+T2      16mil (0.4mm)                                             Round             629       PTH        143.64inch (3648.47mm)
+T3      26mil (0.65mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T4      28mil (0.7mm)                                             Round             4         PTH        0.53inch (13.40mm)
+T5      32mil (0.8mm)                                             Round             5         PTH        0.31inch (8.00mm)
+T6      26mil (0.65mm)                                            Slot              1         NPTH       0.01inch (0.35mm)
+T7      45mil (1.152mm)                                           Round             4         NPTH       19.76inch (502.00mm)
+T8      166mil (4.22mm)                                           Round             6         NPTH       26.18inch (664.86mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              733
+
+Total Processing Time (hh:mm:ss) : 00:00:01

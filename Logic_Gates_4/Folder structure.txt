@@ -1,0 +1,25 @@
+Folder structure of production documents
+
+
+Project Outputs +
+                - Project Files +.................. Client files for review during project development
+                                - General documentation
+                                - Project
+                - Production Files  +.............. Documents intended for manual assembly of the project.
+                                    +
+                                    - 3D model PCB..... PARASOLID and STEP model PCB.
+                                    - 3D PDF Only...... To view the 3D model of the board in a PDF file.
+                                    - Manual assembly docs  +
+                                                            - BOM............................... List of components 
+                                                            and supplier contacts.
+                                                            - Components purchase in Ukraine.... Relevant only for 
+                                                            Ukraine.
+                                                            - Manual PDF........................ Generic project 
+                                                            document for manual assembly.
+                - Production Files ETALPCB  +......... Documents for the manufacture of boards at the ETAL factory.
+                                            - Folder with the project, archive and transfer to the factory.
+                - Production Files JLCPCB   +.......... Documents for the manufacture and assembly of boards at 
+                the JLCPCB factory.
+                                            - Folder with the project.  NOTE! The files required for PCB assembly at the 
+                                            factory need additional processing.
+                

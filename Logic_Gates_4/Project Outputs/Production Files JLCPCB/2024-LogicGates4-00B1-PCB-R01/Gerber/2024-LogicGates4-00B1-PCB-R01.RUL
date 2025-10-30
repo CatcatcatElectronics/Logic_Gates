@@ -1,0 +1,14 @@
+DRC Rules Export File for PCB: C:\Project\Project_Altium\Pr_2024\Logic_Gates\Logic_Gates_4\PCB.PcbDoc
+RuleKind=Width|RuleName=Width_USB|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_dir1|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=WidthBEEP|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=Clearance_PS1|Scope=Board|Minimum=59.06
+RuleKind=Clearance|RuleName=Clearance_PS2|Scope=Board|Minimum=59.06
+RuleKind=Clearance|RuleName=Clearance_TS|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_POL_GND|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_Pol|Scope=Board|Minimum=78.74
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87

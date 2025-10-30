@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Project\Project_Altium\Pr_2024\Logic_Gates\Logic_Gates_4\PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=2024-logicgates4-00b1-pcb-r01-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=2024-logicgates4-00b1-pcb-r01-roundholes-nonplated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=2024-logicgates4-00b1-pcb-r01-slotholes-nonplated.txt|DrillLayers=gtl,gbl

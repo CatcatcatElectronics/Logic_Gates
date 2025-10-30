@@ -1,0 +1,60 @@
+  1. City:                          Dnipro
+     Customer:
+     Name of Developer:             Hena Chernov
+     Mobile phone:                  +380 (50) 575-98-63
+
+  2. Name of board :                ADMCU-C001-PCB-R01
+     Quantity:                      5 pcs.
+
+  3. GERBER-format files :          RS-274-X
+
+  4. Type of board :                4-Layer PCB
+     Material Type :                FR4-Standard Tg 130-140
+     
+     Copper thickness: 
+     Outer Copper Weight:           1.0  OZ
+     Inner Copper Weight:           0.5  OZ
+     
+     Min hole size/diameter         0.6/0.3 mm
+
+     PCB Color                      Green
+     Silkscreen                     White
+
+  5. Dimensions :                   65.00*35.00 mm
+     PCB Thickness :                1.6 mm
+
+  6. Surface Finish :               HASL
+
+  7. Name GERBER-file corresponds to which layer board.
+
+     Top Owerley:                   ADMCU-C001-PCB-R01.GTO
+     Top Paste:                     ADMCU-C001-PCB-R01.GTP
+     Top Solder Mask:               ADMCU-C001-PCB-R01.GTS
+     Top Layer:                     ADMCU-C001-PCB-R01.GTL
+     Inner Layer 1:                 ADMCU-C001-PCB-R01.G1
+     Inner Layer 2:                 ADMCU-C001-PCB-R01.G2
+     Bottom Layer:                  ADMCU-C001-PCB-R01.GBL
+     Bottom Solder Mask:            ADMCU-C001-PCB-R01.GBS
+     Bottom Paste:                  ADMCU-C001-PCB-R01.GBP
+     Bottom Owerley:                ADMCU-C001-PCB-R01.GBO
+     Board PCB:                     ADMCU-C001-PCB-R01.GM3
+     
+     NonPlated holes.(N/C Drill):   ADMCU-C001-PCB-R01-NonPlated.TXT
+     Plated holes.(N/C Drill) :     ADMCU-C001-PCB-R01-Plated.TXT
+     
+
+  8. The presence of electrical control (E-Test): yes
+  
+  9. Notes:     Carry out the contour of the board - only by milling!
+                Tolerance of                        +/- 0.15 mm.
+                See file for more information       *.EXTREP
+
+  10.   Fabrication Notes for Cavities
+        The starting and ending layers for the cavity (L2 and L3 - example)
+        The Gerber file containing the cavity routing path    xxxx.GRB
+        The routing tool radius     2.00 mm
+        The required tolerance on the routing path (usually +/- 0.15 mm)
+        The cavity Type as defined in the IPC-6012F standard
+
+
+
