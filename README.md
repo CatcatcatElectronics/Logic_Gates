@@ -10,6 +10,10 @@ Build a simple PCB tutorial project, control LEDs with built-in drivers, explore
 
 
 > **System Parameters:**
+> MCU - PIC18F27Q84-I/SS
+> LED_CHIP - SK6812MINI-EA
+> USB-BRIDGE - CH343P
+> Connecting to a PC - TYPE-CConnecting to a PC
 ## Functional Diagram project
 ---
 
