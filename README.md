@@ -11,8 +11,9 @@ Build a simple PCB tutorial project, control LEDs with built-in drivers, explore
 
 > **System Parameters:**
 ## Functional Diagram project
+---
 
-![Semantic description of image](_PIC/Functional Diagram.drawio.png?ref_type=heads "Functional Diagram")
+![Functional Diagram of image](_PIC/FunctionalDiagram.drawio.png?ref_type=heads "Functional Diagram")
 
 ---
 
