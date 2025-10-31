@@ -3,10 +3,9 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 **_Printed circuit board design_**
 
-## Task
+## Task:
 
-> **Tasks:**
-Build a simple PCB tutorial project, control LEDs with built-in drivers, explore capacitive sensors for user interface, and learn how to work with a UART serial interface (for DIY projects).
+> Build a simple PCB tutorial project, control LEDs with built-in drivers, explore capacitive sensors for user interface, and learn how to work with a UART serial interface (for DIY projects).
 
 
 ## System Parameters:
