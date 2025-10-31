@@ -3,8 +3,6 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 **_Printed circuit board design_**
 
----
-
 ## Task
 
 > **Tasks:**
