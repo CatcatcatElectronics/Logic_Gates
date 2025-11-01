@@ -70,30 +70,14 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 [**_GERBER_**](link "Download")
 
-## BOM for purchasing components Active BOM
-
-[**_Active BOM_**](link)
 
 ## Download a copy of the project
 
-[**_Download project_**](link "Download")
+[**_Download project_**](https://github.com/CatcatcatElectronics/Logic_Gates/tree/main/Logic_Gates_4/Project%20Outputs/Project%20Files "Download")
 
-## 
+## Firmware
 
-## Additional Documents
-
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
+[**_Firmware_**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Firmware/Logic_Gates_PIC18F27Q84.X.production.rar "Download")
 
 
 ## Image of assembled PCB
