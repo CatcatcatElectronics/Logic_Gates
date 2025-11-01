@@ -25,15 +25,15 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 ## Schematic
 
-![Semantic description of image](_PIC/image1.jpg?ref_type=heads "MCU")
+![Semantic description of image](_PIC/image1.png?ref_type=heads "MCU")
 
-![Semantic description of image](_PIC/image2.jpg?ref_type=heads "SOUND")
+![Semantic description of image](_PIC/image2.png?ref_type=heads "SOUND")
 
-![Semantic description of image](_PIC/image3.jpg?ref_type=heads "LED-DISPLAY")
+![Semantic description of image](_PIC/image3.png?ref_type=heads "LED-DISPLAY")
 
-![Semantic description of image](_PIC/image4.jpg?ref_type=heads "TOUCH")
+![Semantic description of image](_PIC/image4.png?ref_type=heads "TOUCH")
 
-![Semantic description of image](_PIC/image5.jpg?ref_type=heads "USB-POWER")
+![Semantic description of image](_PIC/image5.png?ref_type=heads "USB-POWER")
 
 [**_Schematic_**](link "Download")
 
@@ -42,11 +42,11 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 [**_3D Models Download_** MU module](link "Download")
 
 ## Draftsman
-![Semantic description of image](_PIC/image5.jpg?ref_type=heads "VIEV")
+![Semantic description of image](_PIC/image6.png?ref_type=heads "VIEV")
 
-![Semantic description of image](_PIC/image5.jpg?ref_type=heads "PCB")
+![Semantic description of image](_PIC/image7.png?ref_type=heads "PCB")
 
-![Semantic description of image](_PIC/image5.jpg?ref_type=heads "PCB")
+![Semantic description of image](_PIC/image8.png?ref_type=heads "PCB")
 
 [**_Draftsman_**](link "Viev")
 
@@ -96,13 +96,9 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 ## Image of assembled PCB
 
-![Image of assembled PCB](_PIC/image8.jpg?ref_type=heads "MU module")
+![Image of assembled PCB](_PIC/image9.png?ref_type=heads "Bottom view")
 -----
-![Image of assembled PCB](_PIC/image9.jpg?ref_type=heads "MU module")
------
-![Image of assembled PCB](_PIC/image10.jpg?ref_type=heads "MU module")
------
-![Image of assembled PCB](_PIC/image11.jpg?ref_type=heads "MU module")
+![Image of assembled PCB](_PIC/image10.png?ref_type=heads "Top viev")
 -----
 
 
@@ -110,6 +106,6 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 
 ## Project status
-In Development...
+realize...
 
 ## *****************************************************************************
