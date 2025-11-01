@@ -80,7 +80,7 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 ## Download Firmware
 
-[**_Download Firmware**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Firmware/Logic_Gates_PIC18F27Q84.X.production.rar "Download")
+[**_Download Firmware_**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Firmware/Logic_Gates_PIC18F27Q84.X.production.rar "Download")
 
 ---
 
