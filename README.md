@@ -42,7 +42,7 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 ## 3D Models (STEP & Parasolid)
 
-[**_3D Models Download_** MU module](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Logic_Gates_4/Project%20Outputs/Production%20Files/3D%20model%20PCB/PCB.rar "Download")
+[**_Open catalog_**](https://github.com/CatcatcatElectronics/Logic_Gates/tree/main/Logic_Gates_4/Project%20Outputs/Production%20Files/3D%20model%20PCB "Open")
 
 ## Draftsman
 ![Semantic description of image](_PIC/image6.png?ref_type=heads "VIEV")
