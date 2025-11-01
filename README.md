@@ -66,35 +66,23 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 ## GERBER files for production
 
-[**_Open catalog_**](link "Open")
+[**_Open catalog_**](https://github.com/CatcatcatElectronics/Logic_Gates/tree/main/Logic_Gates_4/Project%20Outputs/Production%20Files%20JLCPCB/2024-LogicGates4-00B1-PCB-R01 "Open")
 
-[**_GERBER_**](link "Download")
+[**_GERBER_**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Logic_Gates_4/Project%20Outputs/Production%20Files%20JLCPCB/2024-LogicGates4-00B1-PCB-R01.zip "Download")
 
-## BOM for purchasing components Active BOM
+---
 
-[**_Active BOM_**](link)
+## Download project
 
-## Download a copy of the project
+[**_Download project_**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Logic_Gates_4/Project%20Outputs/Project%20Files/Logic_Gates_4.rar "Download")
 
-[**_Download project_**](link "Download")
+---
 
-## 
+## Download Firmware
 
-## Additional Documents
+[**_Download Firmware**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Firmware/Logic_Gates_PIC18F27Q84.X.production.rar "Download")
 
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
-[**__**](link)
-
-
+---
 
 ## Image of assembled PCB
 
