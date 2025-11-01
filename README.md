@@ -71,7 +71,7 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 [**_GERBER_**](link "Download")
 
 
-## Download a copy of the project
+## Download a copy of the project Altium Designer
 
 [**_Download project_**](https://github.com/CatcatcatElectronics/Logic_Gates/tree/main/Logic_Gates_4/Project%20Outputs/Project%20Files "Download")
 
