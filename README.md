@@ -36,6 +36,8 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 ![Semantic description of image](_PIC/image5.png?ref_type=heads "USB-POWER")
 
 [**_Schematic_**](https://github.com/522244e7-1b0e-47a8-8e67-6c6619f88081 "Download")
+[**_Open catalog_**](https://github.com/CatcatcatElectronics/Logic_Gates/tree/main/Logic_Gates_4/Project%20Outputs/Production%20Files%20JLCPCB/Schematic "Open")
+
 
 ## 3D Models (STEP & Parasolid)
 
