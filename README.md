@@ -106,7 +106,7 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 
 ## Project status
-realize...
+Release...
 
 ![Semantic description of image](_PIC/logicGates.jpg?ref_type=heads "LogicGates")
 
