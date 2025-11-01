@@ -38,11 +38,13 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 [**_Schematic_**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Logic_Gates_4/Project%20Outputs/Production%20Files%20JLCPCB/Schematic/2024-LogicGates4-00B1-PCB-R04-Schematic.pdf "View")
 
 [**_Open catalog_**](https://github.com/CatcatcatElectronics/Logic_Gates/tree/main/Logic_Gates_4/Project%20Outputs/Production%20Files%20JLCPCB/Schematic "Open")
+
 ---
 
 ## 3D Models (STEP & Parasolid)
 
 [**_Open catalog_**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Logic_Gates_4/Project%20Outputs/Production%20Files/3D%20model%20PCB/PCB.rar "Open")
+
 ---
 ## Draftsman
 ![Semantic description of image](_PIC/image6.png?ref_type=heads "VIEV")
