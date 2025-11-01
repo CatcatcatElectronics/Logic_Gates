@@ -23,11 +23,17 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 ![Semantic description of image](_PIC/image.png?ref_type=heads "Task")
 
-![Semantic description of image](_PIC/image1.jpg?ref_type=heads "Task")
-
 ## Schematic
 
-![Semantic description of image](_PIC/image2.jpg?ref_type=heads "Task")
+![Semantic description of image](_PIC/image1.jpg?ref_type=heads "MCU")
+
+![Semantic description of image](_PIC/image2.jpg?ref_type=heads "SOUND")
+
+![Semantic description of image](_PIC/image3.jpg?ref_type=heads "LED-DISPLAY")
+
+![Semantic description of image](_PIC/image4.jpg?ref_type=heads "TOUCH")
+
+![Semantic description of image](_PIC/image5.jpg?ref_type=heads "USB-POWER")
 
 [**_Schematic_**](link "Download")
 
@@ -36,6 +42,11 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 [**_3D Models Download_** MU module](link "Download")
 
 ## Draftsman
+![Semantic description of image](_PIC/image5.jpg?ref_type=heads "VIEV")
+
+![Semantic description of image](_PIC/image5.jpg?ref_type=heads "PCB")
+
+![Semantic description of image](_PIC/image5.jpg?ref_type=heads "PCB")
 
 [**_Draftsman_**](link "Viev")
 
