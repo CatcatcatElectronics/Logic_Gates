@@ -58,17 +58,11 @@ A game, a simulator, a gift - the development of logical thinking. The Logic Gat
 
 ---
 
-## 3D Presentation
-
-[**_Presentation_**](link "Viev")
-
-## Load 3D models
-
-[**_3D models_**](link "Download")
-
 ## BOM for purchasing components
 
-[**_BOM_**](link "Download")
+[**_BOM_**](https://github.com/CatcatcatElectronics/Logic_Gates/blob/main/Logic_Gates_4/Project%20Outputs/Production%20Files%20JLCPCB/Manual%20procurement%20of%20components/2024-LogicGates4-00B1-PCB-R04-BOM_purchase.xlsx "Download")
+
+---
 
 ## GERBER files for production
 
